@@ -5,6 +5,6 @@ package com.netcracker.lab02;
  */
 public class Main {
     public static void main(String[] args) {
-        System.out.println(Integer.class.equals(int.class));
+        
     }
 }
